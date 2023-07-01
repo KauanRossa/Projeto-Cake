@@ -32,7 +32,7 @@ p{
 #page{
     width: 31.9rem;
 
-    margin: 5.3rem 3.7rem;
+    margin: 5.3rem auto;
 }
 main{
     display: flex;
